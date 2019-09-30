@@ -1,0 +1,7 @@
+D:\DEV\C#\Practice\Get_and_Set\Get_and_Set\bin\Debug\Get_and_Set.exe.config
+D:\DEV\C#\Practice\Get_and_Set\Get_and_Set\bin\Debug\Get_and_Set.exe
+D:\DEV\C#\Practice\Get_and_Set\Get_and_Set\bin\Debug\Get_and_Set.pdb
+D:\DEV\C#\Practice\Get_and_Set\Get_and_Set\obj\Debug\Get_and_Set.csprojAssemblyReference.cache
+D:\DEV\C#\Practice\Get_and_Set\Get_and_Set\obj\Debug\Get_and_Set.csproj.CoreCompileInputs.cache
+D:\DEV\C#\Practice\Get_and_Set\Get_and_Set\obj\Debug\Get_and_Set.exe
+D:\DEV\C#\Practice\Get_and_Set\Get_and_Set\obj\Debug\Get_and_Set.pdb
